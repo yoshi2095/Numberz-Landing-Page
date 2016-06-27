@@ -1,0 +1,148 @@
+ul#menu li {
+  display: inline-block;
+  float: right;
+  position: relative;
+  margin-top: 8px; 
+  margin-left: 10px;
+  margin-right: 35px;
+  cursor: pointer;
+}
+	
+
+
+ul#menu li a {
+	
+    text-decoration: none;
+    color: #808080;
+    font-family: "Helvetica Neue";
+    font-size: 15px;
+    cursor: pointer;
+}
+
+
+#bgone {
+background-image: url("image3.png");
+width: 114vw;
+height: 150vh; 
+background-size: 100% 100%;
+background-repeat: no-repeat;
+position: relative;
+background-position: center;
+margin-left: -60px;
+margin-top: -140px;
+overflow: hidden;
+} 
+
+
+nav {
+	overflow: auto;
+} 
+
+.font {
+	font-family: "Helvetica Neue";
+}
+
+.button {
+	
+	font-weight: 400;
+	font-size: 20px;
+	font-family: "Arial";
+	border-radius: 3px;
+	width: 300px;
+	height: 60px;
+	box-shadow: 0px 1px #888888;
+	background-color: #ffa500;
+	position: relative;
+	color: white;
+	padding-left: 40px;
+	padding-right: 40px;
+	padding-bottom: 20px;
+	padding-top: 20px;
+	cursor: pointer;
+	border-style: none;
+}
+
+.font2 {
+	font-family: "Helvetica 35 Thin";
+}
+
+.panel2 {
+	float: left;
+	display: inline-block; 
+	margin-left: 130px; 
+	margin-top: 30px; 
+	width: 100px; 
+	height: 100px;
+}
+
+.panel2man {
+	float: left;
+	margin-left: 450px; 
+	margin-top: 107px; 
+	width: 135px; 
+	height: 235px;
+}
+
+.panel2text {
+	float: right;
+	margin-right: 100px; 
+	margin-top: 170px; 
+	width: 500px; 
+	height: 100px;
+}
+
+.font3 {
+	font-family: "DJB Almost perfect";
+}
+
+.panel3woman {
+	float: left;
+	margin-left: 100px; 
+	margin-top: 95px; 
+	width: 125px; 
+	height: 200px;
+}
+
+.panel3text {
+	position: relative; 
+	float: none;
+	width: 350px; 
+	height: 70px;
+	margin-top: 150px;
+}
+
+.panel4text {
+	position: relative; 
+	float: right;
+	margin-right: -350px;
+	width: 350px; 
+	height: 80px;
+	margin-top: 200px;
+}
+
+.panel4man {
+	position: relative; 
+	margin-right: 100px;
+	width: 100px; 
+	height: 30px;
+	margin-top: 200px;
+}
+
+.panel5 {
+	float: left;
+	display: inline-block; 
+	margin-left: 200px; 
+	margin-top: 30px; 
+	width: 150px; 
+	height: 110px;
+}
+
+ul#social li {
+  display: inline-block;
+  float: right;
+  position: relative;
+  margin-left: 10px;
+  cursor: pointer;
+  margin-right: 50px; 
+  margin-top: 70px;
+}
