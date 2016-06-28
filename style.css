@@ -78,7 +78,7 @@ nav {
 .panel2man {
 	float: left;
 	margin-left: 450px; 
-	margin-top: 107px; 
+	margin-top: 86px; 
 	width: 135px; 
 	height: 235px;
 }
@@ -89,6 +89,8 @@ nav {
 	margin-top: 170px; 
 	width: 500px; 
 	height: 100px;
+	color: #9A9A9A;
+	font-family: "DJB Almost Perfect";
 }
 
 .font3 {
@@ -98,7 +100,7 @@ nav {
 .panel3woman {
 	float: left;
 	margin-left: 100px; 
-	margin-top: 95px; 
+	margin-top: 97px; 
 	width: 125px; 
 	height: 200px;
 }
@@ -109,15 +111,6 @@ nav {
 	width: 350px; 
 	height: 70px;
 	margin-top: 150px;
-}
-
-.panel4text {
-	position: relative; 
-	float: right;
-	margin-right: -350px;
-	width: 350px; 
-	height: 80px;
-	margin-top: 200px;
 }
 
 .panel4man {
